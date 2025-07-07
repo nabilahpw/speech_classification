@@ -17,7 +17,9 @@ Ini adalah proyek *machine learning* yang mengimplementasikan *Convolutional Neu
 ## Struktur Proyek
 .
 ├── Speech Classification with CNN.ipynb  # Notebook utama proyek
+
 ├── animal_cnn.pth                        # File model yang sudah dilatih (akan diunggah)
+
 ├── data/                                 # Folder untuk data training
 │   ├── moo/
 │   ├── meow/
@@ -25,11 +27,11 @@ Ini adalah proyek *machine learning* yang mengimplementasikan *Convolutional Neu
 │   ├── mbee/
 │   └── tweet/
 └── test/                                 # Folder untuk data uji coba
-├── cat_meow.wav
-├── cow_moo.wav
-├── dog_woof.wav
-├── goat_mbee.wav
-└── bird_twit.wav
+    ├── cat_meow.wav
+    ├── cow_moo.wav
+    ├── dog_woof.wav
+    ├── goat_mbee.wav
+    └── bird_twit.wav
 
 
 ### Pra-pemrosesan Data
