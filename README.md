@@ -15,11 +15,8 @@ Ini adalah proyek *machine learning* yang mengimplementasikan *Convolutional Neu
 * **Prediksi Suara Baru**: Model dapat memprediksi label untuk *file* audio baru dengan menampilkan tingkat kepercayaan untuk setiap kelas.
 
 ## Struktur Proyek
-.
 ├── Speech Classification with CNN.ipynb  # Notebook utama proyek
-
 ├── animal_cnn.pth                        # File model yang sudah dilatih (akan diunggah)
-
 ├── data/                                 # Folder untuk data training
 │   ├── moo/
 │   ├── meow/
